@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.4.8",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
     "lucide-react": "latest",
     "clsx": "latest",
     "tailwind-merge": "latest",
@@ -43,16 +43,17 @@
     "@radix-ui/react-tooltip": "latest",
     "class-variance-authority": "latest",
     "tailwindcss-animate": "latest",
-    "tailwindcss": "3.4.1",
-    "postcss": "8.4.31",
-    "autoprefixer": "10.4.16"
+    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "eslint": "8.56.0",
-    "eslint-config-next": "14.1.0"
+    "eslint": "latest",
+    "eslint-config-next": "latest"
   }
 }
