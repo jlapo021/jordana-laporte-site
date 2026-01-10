@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.1.0",
+    "next": "15.1.4",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "lucide-react": "latest",
@@ -20,9 +20,8 @@
     "@radix-ui/react-dialog": "latest",
     "class-variance-authority": "latest",
     "tailwindcss": "3.4.1",
-    "postcss": "8.4.31",
-    "autoprefixer": "10.4.16",
-    "tailwindcss-animate": "latest"
+    "postcss": "latest",
+    "autoprefixer": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
