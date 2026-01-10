@@ -19,8 +19,7 @@
     "@radix-ui/react-slot": "latest",
     "@radix-ui/react-dialog": "latest",
     "class-variance-authority": "latest",
-    "tailwindcss": "latest",
-    "@tailwindcss/postcss": "latest",
+    "tailwindcss": "3.4.1",
     "postcss": "latest",
     "autoprefixer": "latest"
   },
@@ -28,8 +27,6 @@
     "typescript": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest"
+    "@types/react-dom": "latest"
   }
 }
