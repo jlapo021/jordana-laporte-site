@@ -25,7 +25,7 @@ import {
   SheetTitle,
 } from "@/components/ui/sheet";
 
-/
+/**
  * Jordana Laporte Coaching - SEO Optimized Website
  * Style: Apple Minimalist (Professional, Neutral Colors, Modern Typography)
  */
@@ -156,13 +156,13 @@ export default function Home() {
                 </div>
                 <div className="space-y-6 text-lg text-slate-600 leading-relaxed">
                   <p>
-                    I am an Associate Certified Coach credentialed with the International Coaching Federation. I&apos;m passionate about partnering with you to facilitate the creation and achievement of your personal or professional goals through expert life coaching for career change.
+                    {"I am an Associate Certified Coach credentialed with the International Coaching Federation. I'm passionate about partnering with you to facilitate the creation and achievement of your personal or professional goals through expert life coaching for career change."}
                   </p>
                   <p>
-                    By trade, I have been a compassionate employment and social justice lawyer, empathetic career counsellor and dedicated human resources professional. I specialize in career and personal transitions, helping you navigate the complexities of professional growth.
+                    {"By trade, I have been a compassionate employment and social justice lawyer, empathetic career counsellor and dedicated human resources professional. I specialize in career and personal transitions, helping you navigate the complexities of professional growth."}
                   </p>
                   <p>
-                    I have pivoted several times to craft my professional path and maintain a balance with my personal values and would love to help you do the same as your Toronto-based life transitions coach.
+                    {"I have pivoted several times to craft my professional path and maintain a balance with my personal values and would love to help you do the same as your Toronto-based life transitions coach."}
                   </p>
                 </div>
                 <div className="grid sm:grid-cols-2 gap-6 mt-10">
@@ -196,7 +196,7 @@ export default function Home() {
             <div className="text-center max-w-3xl mx-auto mb-16">
               <h2 className="text-4xl font-bold mb-6">Professional Career Coaching Services in Toronto</h2>
               <p className="text-lg text-slate-600 mb-8">
-                Coaching is a transformative process that empowers you to navigate life and career transitions with clarity, confidence, and purpose.
+                {"Coaching is a transformative process that empowers you to navigate life and career transitions with clarity, confidence, and purpose."}
               </p>
               <a 
                 href="/documents/what-exactly-is-coaching.pdf" 
@@ -221,7 +221,7 @@ export default function Home() {
                 },
                 {
                   title: "Navigate Change",
-                  description: "Manage transitions with resilience and trust in your own capabilities. Expert guidance for navigating life&apos;s significant shifts.",
+                  description: "Manage transitions with resilience and trust in your own capabilities. Expert guidance for navigating life's significant shifts.",
                   icon: <ArrowRight className="h-6 w-6" />
                 }
               ].map((service, i) => (
@@ -281,7 +281,7 @@ export default function Home() {
               <div className="bg-white/5 backdrop-blur-sm p-8 rounded-2xl border border-white/10">
                 <MessageSquare className="h-8 w-8 text-slate-400 mb-6" />
                 <p className="text-lg italic mb-8 leading-relaxed text-slate-200">
-                  &quot;I started my first coach session with a question on how to strategize for my next level in career and how to get there. By my third coaching session, I have been able to put together an extensive strategy and slowly but surely, I am steadily plowing into my next level of career opportunities. Thank you Jordana !!&quot;
+                  {"\"I started my first coach session with a question on how to strategize for my next level in career and how to get there. By my third coaching session, I have been able to put together an extensive strategy and slowly but surely, I am steadily plowing into my next level of career opportunities. Thank you Jordana !!\""}
                 </p>
                 <div className="flex items-center gap-4">
                   <div className="h-12 w-12 rounded-full bg-slate-700 flex items-center justify-center font-bold">SD</div>
@@ -294,7 +294,7 @@ export default function Home() {
               <div className="bg-white/5 backdrop-blur-sm p-8 rounded-2xl border border-white/10">
                 <MessageSquare className="h-8 w-8 text-slate-400 mb-6" />
                 <p className="text-lg italic mb-8 leading-relaxed text-slate-200">
-                  &quot;I had a great experience working with Jordana. She took the time to listen and understand where I was at and where I wanted to go. She is really good at breaking down the complexity of the problem into more manageable steps which of course motivated me to stay on track. If you&apos;re looking for a coach, I definitely recommend working with Jordana.&quot;
+                  {"\"I had a great experience working with Jordana. She took the time to listen and understand where I was at and where I wanted to go. She is really good at breaking down the complexity of the problem into more manageable steps which of course motivated me to stay on track. If you're looking for a coach, I definitely recommend working with Jordana.\""}
                 </p>
                 <div className="flex items-center gap-4">
                   <div className="h-12 w-12 rounded-full bg-slate-700 flex items-center justify-center font-bold">DA</div>
@@ -313,7 +313,7 @@ export default function Home() {
           <div className="max-w-4xl mx-auto px-6 text-center">
             <h2 className="text-4xl font-bold mb-8">Ready to take the next step in your career?</h2>
             <p className="text-xl text-slate-600 mb-12">
-              Let&apos;s partner together to facilitate the creation and achievement of your personal or professional goals.
+              {"Let's partner together to facilitate the creation and achievement of your personal or professional goals."}
             </p>
             <div className="inline-flex flex-col items-center gap-6">
               <a href={bookingUrl} target="_blank" rel="noopener noreferrer">
