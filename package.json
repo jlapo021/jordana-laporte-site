@@ -17,6 +17,12 @@
     "tailwind-merge": "latest",
     "@radix-ui/react-accordion": "latest",
     "@radix-ui/react-slot": "latest",
-    "class-variance-authority": "latest"
+    "@radix-ui/react-dialog": "latest",
+    "@radix-ui/react-sheet": "latest",
+    "class-variance-authority": "latest",
+    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
   }
 }
