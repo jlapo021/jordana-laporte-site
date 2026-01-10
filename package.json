@@ -19,11 +19,10 @@
     "@radix-ui/react-slot": "latest",
     "@radix-ui/react-dialog": "latest",
     "class-variance-authority": "latest",
-    "tailwindcss": "3.4.1",
+    "tailwindcss": "latest",
+    "@tailwindcss/postcss": "latest",
     "postcss": "latest",
-    "autoprefixer": "latest"
-  },
-  "devDependencies": {
+    "autoprefixer": "latest",
     "typescript": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
