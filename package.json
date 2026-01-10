@@ -20,8 +20,9 @@
     "@radix-ui/react-dialog": "latest",
     "class-variance-authority": "latest",
     "tailwindcss": "3.4.1",
-    "postcss": "latest",
-    "autoprefixer": "latest"
+    "postcss": "8.4.31",
+    "autoprefixer": "10.4.16",
+    "tailwindcss-animate": "latest"
   },
   "devDependencies": {
     "typescript": "latest",
