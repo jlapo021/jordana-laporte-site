@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
+import Link from "next/link";
 import { 
   CheckCircle2, 
   ArrowRight, 
@@ -339,8 +340,8 @@ export default function Home() {
           <div className="flex flex-col items-center md:items-end gap-4">
             <div className="flex gap-8 text-sm text-slate-500">
               <a href="https://www.linkedin.com/in/jordana-laporte/?originalSubdomain=ca" target="_blank" rel="noopener noreferrer" className="hover:text-slate-900 transition-colors">LinkedIn</a>
-              <a href="#" className="hover:text-slate-900 transition-colors">Privacy Policy</a>
-              <a href="#" className="hover:text-slate-900 transition-colors">Terms of Service</a>
+              <Link href="/privacy" className="hover:text-slate-900 transition-colors">Privacy Policy</Link>
+              <Link href="/terms" className="hover:text-slate-900 transition-colors">Terms of Service</Link>
             </div>
             <div className="flex items-center gap-3 text-xs text-slate-400">
               <span>Photos by</span>
