@@ -1,0 +1,250 @@
+$ next dev --turbopack
+   ▲ Next.js 15.5.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 2s
+ ○ Compiling / ...
+ ✓ Compiled / in 5s
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ ⨯ [Error: Invalid src prop (https://jordanalaporte.com/wp-content/uploads/2024/05/Jordana-Laporte-Coaching-Speaking-1.jpg) on `next/image`, hostname "jordanalaporte.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host] {
+  digest: '95127911'
+}
+ GET / 500 in 6585ms
+ ⚠ Cross origin request detected from hungry-taxis-glow.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ⨯ [Error: Invalid src prop (https://jordanalaporte.com/wp-content/uploads/2024/05/Jordana-Laporte-Coaching-Speaking-1.jpg) on `next/image`, hostname "jordanalaporte.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host] {
+  digest: '95127911'
+}
+ GET / 500 in 398ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 511ms
+ GET /favicon.ico 200 in 732ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 874ms
+ ⨯ [Error: Invalid src prop (https://jordanalaporte.com/wp-content/uploads/2024/05/Jordana-Laporte-Coaching-Speaking-1.jpg) on `next/image`, hostname "jordanalaporte.com" is not configured under images in your `next.config.js`
+See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host] {
+  digest: '95127911'
+}
+ GET / 500 in 270ms
+ ✓ Compiled in 185ms
+ ✓ Compiled / in 66ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 970ms
+ GET / 200 in 974ms
+ GET / 200 in 386ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 285ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 287ms
+ GET / 200 in 226ms
+ ✓ Compiled in 125ms
+ ✓ Compiled / in 47ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 379ms
+ GET / 200 in 157ms
+ GET / 200 in 154ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 280ms
+ GET / 200 in 496ms
+ ✓ Compiled in 258ms
+ ✓ Compiled / in 71ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 560ms
+ GET / 200 in 232ms
+ GET / 200 in 177ms
+ GET / 200 in 565ms
+ ✓ Compiled in 252ms
+ ✓ Compiled / in 49ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 312ms
+ GET / 200 in 171ms
+ GET / 200 in 589ms
+ ✓ Compiled in 328ms
+ ✓ Compiled / in 412ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 1482ms
+ GET / 200 in 1266ms
+ GET / 200 in 297ms
+ GET / 200 in 583ms
+ ✓ Compiled in 404ms
+ ✓ Compiled / in 47ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 761ms
+ ✓ Compiled in 139ms
+ ✓ Compiled / in 49ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 365ms
+ GET / 200 in 526ms
+ ✓ Compiled in 240ms
+ ✓ Compiled / in 70ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 381ms
+ GET / 200 in 566ms
+ ✓ Compiled in 124ms
+ ✓ Compiled / in 46ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 313ms
+ GET / 200 in 146ms
+ GET / 200 in 449ms
+ ✓ Compiled in 144ms
+ ✓ Compiled / in 42ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 315ms
+ ✓ Compiled in 472ms
+ ✓ Compiled / in 47ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 381ms
+ GET / 200 in 959ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 304ms
+ GET / 200 in 360ms
+ ✓ Compiled in 151ms
+ ✓ Compiled / in 60ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 474ms
+ GET / 200 in 341ms
+ GET / 200 in 156ms
+ GET / 200 in 476ms
+ ✓ Compiled in 159ms
+ ✓ Compiled / in 45ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 451ms
+ GET / 200 in 210ms
+ GET / 200 in 137ms
+ GET / 200 in 147ms
+ GET / 200 in 843ms
+ GET / 200 in 339ms
+ ✓ Compiled in 621ms
+ ✓ Compiled / in 53ms
+ ⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+ GET / 200 in 399ms
+ GET / 200 in 220ms
+ GET / 200 in 220ms
+ GET / 200 in 207ms
+ GET / 200 in 829ms
+ ✓ Compiled in 2s
+ ✓ Compiled in 259ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 950ms
+ GET /app/page.tsx 404 in 1201ms
+ ✓ Compiled in 257ms
+ GET /app/page.tsx 404 in 1913ms
+ GET /app/page.tsx 404 in 168ms
+ GET /favicon.ico 200 in 286ms
+ ✓ Compiled in 272ms
+ ⨯ ./tailwind.config.ts:83:13
+Module not found: Can't resolve 'tailwindcss-animate'
+[0m [90m 81 |[39m   	}
+ [90m 82 |[39m   }[33m,[39m
+[31m[1m>[22m[39m[90m 83 |[39m   plugins[33m:[39m [require([32m"tailwindcss-animate"[39m)][33m,[39m
+ [90m    |[39m             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 84 |[39m }[33m;[39m
+ [90m 85 |[39m [36mexport[39m [36mdefault[39m config[33m;[39m
+ [90m 86 |[39m[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./tailwind.config.ts:83:13
+Module not found: Can't resolve 'tailwindcss-animate'
+[0m [90m 81 |[39m   	}
+ [90m 82 |[39m   }[33m,[39m
+[31m[1m>[22m[39m[90m 83 |[39m   plugins[33m:[39m [require([32m"tailwindcss-animate"[39m)][33m,[39m
+ [90m    |[39m             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 84 |[39m }[33m;[39m
+ [90m 85 |[39m [36mexport[39m [36mdefault[39m config[33m;[39m
+ [90m 86 |[39m[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+    [2m[at onInvalidCandidate (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:21:1314)][0m
+    [2m[at Te (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:16:36364)][0m
+    [2m[at /home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:21:355][0m
+    [2m[at Tr (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:3:1718)][0m
+    [2m[at _ (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:3:1377)][0m
+    [2m[at Se (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:21:172)][0m
+    [2m[at ln (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:38:294)][0m
+    [2m[at process.processTicksAndRejections (node:internal/process/task_queues:105:5)][0m
+    [2m[at async sn (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:38:631)][0m
+    [2m[at async Qr (/home/code/jordana-laporte-site/node_modules/@tailwindcss/node/dist/index.js:10:3385)][0m
+ ⨯ ./tailwind.config.ts:83:13
+Module not found: Can't resolve 'tailwindcss-animate'
+[0m [90m 81 |[39m   	}
+ [90m 82 |[39m   }[33m,[39m
+[31m[1m>[22m[39m[90m 83 |[39m   plugins[33m:[39m [require([32m"tailwindcss-animate"[39m)][33m,[39m
+ [90m    |[39m             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 84 |[39m }[33m;[39m
+ [90m 85 |[39m [36mexport[39m [36mdefault[39m config[33m;[39m
+ [90m 86 |[39m[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./tailwind.config.ts:83:13
+Module not found: Can't resolve 'tailwindcss-animate'
+[0m [90m 81 |[39m   	}
+ [90m 82 |[39m   }[33m,[39m
+[31m[1m>[22m[39m[90m 83 |[39m   plugins[33m:[39m [require([32m"tailwindcss-animate"[39m)][33m,[39m
+ [90m    |[39m             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 84 |[39m }[33m;[39m
+ [90m 85 |[39m [36mexport[39m [36mdefault[39m config[33m;[39m
+ [90m 86 |[39m[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+Error: Cannot apply unknown utility class `border-border`. Are you using CSS modules or similar and missing `@reference`? https://tailwindcss.com/docs/functions-and-directives#reference-directive
+    [2m[at onInvalidCandidate (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:21:1314)][0m
+    [2m[at Te (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:16:36364)][0m
+    [2m[at /home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:21:355][0m
+    [2m[at Tr (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:3:1718)][0m
+    [2m[at _ (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:3:1377)][0m
+    [2m[at Se (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:21:172)][0m
+    [2m[at ln (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:38:294)][0m
+    [2m[at process.processTicksAndRejections (node:internal/process/task_queues:105:5)][0m
+    [2m[at async sn (/home/code/jordana-laporte-site/node_modules/tailwindcss/dist/lib.js:38:631)][0m
+    [2m[at async Qr (/home/code/jordana-laporte-site/node_modules/@tailwindcss/node/dist/index.js:10:3385)][0m
+ ⨯ ./tailwind.config.ts:83:13
+Module not found: Can't resolve 'tailwindcss-animate'
+[0m [90m 81 |[39m   	}
+ [90m 82 |[39m   }[33m,[39m
+[31m[1m>[22m[39m[90m 83 |[39m   plugins[33m:[39m [require([32m"tailwindcss-animate"[39m)][33m,[39m
+ [90m    |[39m             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 84 |[39m }[33m;[39m
+ [90m 85 |[39m [36mexport[39m [36mdefault[39m config[33m;[39m
+ [90m 86 |[39m[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ ⨯ ./tailwind.config.ts:83:13
+Module not found: Can't resolve 'tailwindcss-animate'
+[0m [90m 81 |[39m   	}
+ [90m 82 |[39m   }[33m,[39m
+[31m[1m>[22m[39m[90m 83 |[39m   plugins[33m:[39m [require([32m"tailwindcss-animate"[39m)][33m,[39m
+ [90m    |[39m             [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 84 |[39m }[33m;[39m
+ [90m 85 |[39m [36mexport[39m [36mdefault[39m config[33m;[39m
+ [90m 86 |[39m[0m
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
