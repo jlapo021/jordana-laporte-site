@@ -1,0 +1,33 @@
+{
+  "name": "jordana-laporte-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.1.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "lucide-react": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest",
+    "@radix-ui/react-accordion": "latest",
+    "@radix-ui/react-slot": "latest",
+    "@radix-ui/react-dialog": "latest",
+    "class-variance-authority": "latest",
+    "tailwindcss": "3.4.1",
+    "postcss": "8.4.31",
+    "autoprefixer": "10.4.16",
+    "tailwindcss-animate": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}
