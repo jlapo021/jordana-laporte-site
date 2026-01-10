@@ -9,22 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "15.1.4",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "lucide-react": "latest",
     "clsx": "latest",
     "tailwind-merge": "latest",
-    "class-variance-authority": "latest",
-    "tailwindcss-animate": "latest",
     "@radix-ui/react-accordion": "latest",
+    "@radix-ui/react-slot": "latest",
+    "@radix-ui/react-dialog": "latest",
     "@radix-ui/react-alert-dialog": "latest",
     "@radix-ui/react-aspect-ratio": "latest",
     "@radix-ui/react-avatar": "latest",
     "@radix-ui/react-checkbox": "latest",
     "@radix-ui/react-collapsible": "latest",
     "@radix-ui/react-context-menu": "latest",
-    "@radix-ui/react-dialog": "latest",
     "@radix-ui/react-dropdown-menu": "latest",
     "@radix-ui/react-hover-card": "latest",
     "@radix-ui/react-label": "latest",
@@ -37,12 +36,13 @@
     "@radix-ui/react-select": "latest",
     "@radix-ui/react-separator": "latest",
     "@radix-ui/react-slider": "latest",
-    "@radix-ui/react-slot": "latest",
     "@radix-ui/react-switch": "latest",
     "@radix-ui/react-tabs": "latest",
     "@radix-ui/react-toggle": "latest",
     "@radix-ui/react-toggle-group": "latest",
     "@radix-ui/react-tooltip": "latest",
+    "class-variance-authority": "latest",
+    "tailwindcss-animate": "latest",
     "tailwindcss": "3.4.1",
     "postcss": "8.4.31",
     "autoprefixer": "10.4.16"
@@ -52,7 +52,7 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.1.0"
   }
 }
