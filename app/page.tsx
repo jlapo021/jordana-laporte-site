@@ -344,7 +344,9 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-3 text-xs text-slate-400">
               <span>Photos by</span>
-              <a href="https://marycarlaquintazzi.com/" target="_blank" rel="noopener noreferrer"><Image src="/images/photo-credit-logo.png" alt="Marycarla Quintazzi Studio" width={60} height={24} className="object-contain opacity-60 hover:opacity-100 transition-opacity" /></a>
+              <a href="https://marycarlaquintazzi.com/" target="_blank" rel="noopener noreferrer">
+                <Image src="/images/photo-credit-logo.png" alt="Marycarla Quintazzi Studio" width={60} height={24} className="object-contain opacity-60 hover:opacity-100 transition-opacity" />
+              </a>
             </div>
             <p className="text-sm text-slate-400">
               © {new Date().getFullYear()} Jordana Laporte Coaching. All rights reserved.
