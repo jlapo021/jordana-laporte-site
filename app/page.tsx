@@ -140,7 +140,7 @@ export default function Home() {
                   src="/images/jordana.png" 
                   alt="Jordana Laporte - Toronto Life Coach for Career Change" 
                   fill 
-                  className="object-cover brightness-[1.05] saturate-[1.1]"
+                  className="object-cover"
                   sizes="(max-width: 768px) 100vw, 50vw"
                 />
               </div>
