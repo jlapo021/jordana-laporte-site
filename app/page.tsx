@@ -102,7 +102,7 @@ export default function Home() {
               src="/images/hero-bg.png" 
               alt="Career Transition Coaching Toronto Background" 
               fill 
-              className="object-cover"
+              className="object-cover brightness-[1.05] saturate-[1.1]"
               priority
             />
           </div>
@@ -140,7 +140,7 @@ export default function Home() {
                   src="/images/jordana.png" 
                   alt="Jordana Laporte - Toronto Life Coach for Career Change" 
                   fill 
-                  className="object-cover"
+                  className="object-cover brightness-[1.05] saturate-[1.1]"
                   sizes="(max-width: 768px) 100vw, 50vw"
                 />
               </div>
