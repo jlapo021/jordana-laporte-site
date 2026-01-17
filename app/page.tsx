@@ -137,7 +137,7 @@ export default function Home() {
             <div className="grid lg:grid-cols-2 gap-16 items-center">
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden shadow-2xl">
                 <Image 
-                  src="/images/main photo.jpg" 
+                  src="/images/main photo.jpeg" 
                   alt="Jordana Laporte - Toronto Life Coach for Career Change" 
                   fill 
                   className="object-cover"
